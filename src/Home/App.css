@@ -16,10 +16,13 @@
 
 .container {
   max-width: 1400px;
-  height: 100vh;
   margin: auto;
 }
 
+a {
+  text-decoration: none;
+  color: #fff;
+}
 
 /* ------------------------- MENU ------------------------- */
 .menu {
@@ -136,3 +139,12 @@ li {
 
 /* --------------------------------------------------------------------- */
 
+/* ------------------------- BOOKS ------------------------- */
+
+.screen-two {
+  margin-top: 10em;
+}
+
+.recent-announcements {
+  margin-top: 6em;
+}

@@ -1,0 +1,313 @@
+[
+  {
+    "Id":"0",
+    "Nome":"A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 1",
+    "Autor":"George R. R. Martin",
+    "Genero":"Drama",
+    "Preco":"R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07PPB9QW1/55cf9114/cover.jpeg",
+    "Vendas":"529",
+    "Data":"10/09/2023"
+  },
+  
+  {
+    "Id":"1",
+    "Nome":"A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 2",
+    "Autor":"George R. R. Martin",
+    "Genero":"Drama",
+    "Preco":"R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QYPLKV1/f35079bd/cover.jpeg",
+    "Vendas":"229",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"2",
+    "Nome":"A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 3",
+    "Autor":"George R. R. Martin",
+    "Genero":"Drama",
+    "Preco":"R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QXSYDSB/e27c5309/cover.jpeg",
+    "Vendas":"769",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"3",
+    "Nome":"A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 4",
+    "Autor":"George R. R. Martin",
+    "Genero":"Drama",
+    "Preco":"R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B081284MLJ/cbb6ee57/cover.jpeg",
+    "Vendas":"123",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"4",
+    "Nome":"A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 5",
+    "Autor":"George R. R. Martin",
+    "Genero":"Drama",
+    "Preco":"R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B084SS25D3/e4b036d0/cover.jpeg",
+    "Vendas":"769",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"5",
+    "Nome":"Harry Potter e a Pedra Filosofal: 1",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96G4/76c6ddc3/cover.jpeg",
+    "Vendas":"432",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"6",
+    "Nome":"Harry Potter e a Câmara Secreta: 2",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://www.cache2net3.com//Repositorio/5286/Produtos/8870cec5-4.jpg?=1387527-1",
+    "Vendas":"463",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"7",
+    "Nome":"Harry Potter e o Prisioneiro de Azkaban: 3",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96HI/e428a52b/cover.jpeg",
+    "Vendas":"184",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"8",
+    "Nome":"Harry Potter e o Cálice de Fogo: 4",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96FA/c3b1f08c/cover.jpeg",
+    "Vendas":"946",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"9",
+    "Nome":"Harry Potter e a Ordem da Fênix: 5",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96IC/c95eb7fd/cover.jpeg",
+    "Vendas":"444",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"10",
+    "Nome":"Harry Potter e o Enigma do Príncipe: 6",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96LY/ef6dd8fd/cover.jpeg",
+    "Vendas":"152",
+    "Data":"10/09/2023"
+  },
+
+  {
+    "Id":"11",
+    "Nome":"Harry Potter e as Relíquias da Morte: 7",
+    "Autor":"J.K. Rowling",
+    "Genero":"Fantasia",
+    "Preco":"R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96GE/e85ee591/cover.jpeg",
+    "Vendas":"362",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "12",
+    "Nome": "A Máquina do Tempo",
+    "Autor": "H.G. Wells",
+    "Genero": "Ficção Científica",
+    "Preco": "R$ 25,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B087N72SR7/a1522dcc/cover.jpeg",
+    "Vendas": "150",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "13",
+    "Nome": "Dom Quixote",
+    "Autor": "Miguel de Cervantes",
+    "Genero": "Clássico",
+    "Preco": "R$ 20,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B09474XK6S/4d7d81bb/cover.jpeg",
+    "Vendas": "230",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "14",
+    "Nome": "1984",
+    "Autor": "George Orwell",
+    "Genero": "Distopia",
+    "Preco": "R$ 22,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B08QRG9G23/d8042a26/cover.jpeg",
+    "Vendas": "180",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "15",
+    "Nome": "O Hobbit",
+    "Autor": "J.R.R. Tolkien",
+    "Genero": "Fantasia",
+    "Preco": "R$ 28,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B008TGMR4E/f3f7c9c6/cover.jpeg",
+    "Vendas": "270",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "16",
+    "Nome": "Cem Anos de Solidão",
+    "Autor": "Gabriel García Márquez",
+    "Genero": "Realismo Mágico",
+    "Preco": "R$ 30,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QF3CSRW/c2b55166/cover.jpeg",
+    "Vendas": "210",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "17",
+    "Nome": "A Revolução dos Bichos",
+    "Autor": "George Orwell",
+    "Genero": "Distopia",
+    "Preco": "R$ 22,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B009WWDBX0/ffa685d5/cover.jpeg",
+    "Vendas": "195",
+    "Data":"02/09/2023"
+  },
+  {
+    "Id": "18",
+    "Nome": "O Pequeno Príncipe",
+    "Autor": "Antoine de Saint-Exupéry",
+    "Genero": "Conto",
+    "Preco": "R$ 18,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B0BZFKQMFM/4c7af3cc/cover.jpeg",
+    "Vendas": "320",
+    "Data":"02/09/2023"
+  },
+  {
+    "Id": "19",
+    "Nome": "Drácula",
+    "Autor": "Bram Stoker",
+    "Genero": "Terror",
+    "Preco": "R$ 26,00",
+    "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B0BZSTHLMV/d5dbc22d/cover.jpeg",
+    "Vendas": "150",
+    "Data":"01/09/2023"
+  },
+  {
+    "Id": "20",
+    "Nome": "A Ilha do Tesouro",
+    "Autor": "Robert Louis Stevenson",
+    "Genero": "Aventura",
+    "Preco": "R$ 23,00",
+    "Capa": "https://www.lpm.com.br/livros/imagens/ilha_do_tesouro_9788525428714_hd.jpg",
+    "Vendas": "190",
+    "Data":"10/09/2023"
+  },
+  {
+    "Id": "21",
+    "Nome": "A Odisséia",
+    "Autor": "Homero",
+    "Genero": "Épico",
+    "Preco": "R$ 24,00",
+    "Capa": "https://cdn.kobo.com/book-images/c5a9e519-a7d3-4727-ad5d-2110aa6467df/1200/1200/False/a-odisseia-edicao-ilustrada.jpg",
+    "Vendas": "240",
+    "Data":"18/08/2023"
+  },
+  {
+    "Id": "22",
+    "Nome": "Matar um Mockingbird",
+    "Autor": "Harper Lee",
+    "Genero": "Drama",
+    "Preco": "R$ 21,00",
+    "Capa": "https://upload.wikimedia.org/wikipedia/commons/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
+    "Vendas": "280",
+    "Data":"10/07/2023"
+  },
+  {
+    "Id": "23",
+    "Nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "Autor": "J.R.R. Tolkien",
+    "Genero": "Fantasia",
+    "Preco": "R$ 29,00",
+    "Capa": "https://m.media-amazon.com/images/I/81MZ8OjmQrL._AC_UF1000,1000_QL80_.jpg",
+    "Vendas": "310",
+    "Data":"13/07/2023"
+  },
+  {
+    "Id": "24",
+    "Nome": "O Grande Gatsby",
+    "Autor": "F. Scott Fitzgerald",
+    "Genero": "Ficção",
+    "Preco": "R$ 27,00",
+    "Capa": "https://m.media-amazon.com/images/I/71OHAmfPPZL.jpg",
+    "Vendas": "200",
+    "Data":"07/09/2023"
+  },
+  {
+    "Id": "25",
+    "Nome": "O Sol Também se Levanta",
+    "Autor": "Ernest Hemingway",
+    "Genero": "Ficção",
+    "Preco": "R$ 25,00",
+    "Capa": "https://m.media-amazon.com/images/I/81HLIHXj06L.jpg",
+    "Vendas": "170",
+    "Data":"25/08/2023"
+  },
+  {
+    "Id": "26",
+    "Nome": "Crime e Castigo",
+    "Autor": "Fyodor Dostoevsky",
+    "Genero": "Romance",
+    "Preco": "R$ 28,00",
+    "Capa": "https://m.media-amazon.com/images/I/91q7tJhB47L.jpg",
+    "Vendas": "220",
+    "Data":"22/08/2023"
+  },
+  {
+    "Id": "27",
+    "Nome": "O Alquimista",
+    "Autor": "Paulo Coelho",
+    "Genero": "Ficção",
+    "Preco": "R$ 23,00",
+    "Capa": "https://m.media-amazon.com/images/I/81slUinjTlS.jpg",
+    "Vendas": "310",
+    "Data":"03/09/2023"
+  },
+  {
+    "Id": "28",
+    "Nome": "A Menina que Roubava Livros",
+    "Autor": "Markus Zusak",
+    "Genero": "Drama",
+    "Preco": "R$ 26,00",
+    "Capa": "https://m.media-amazon.com/images/I/61L+4OBhm-L.jpg",
+    "Vendas": "250",
+    "Data":"06/09/2023"
+  },
+  {
+    "Id": "29",
+    "Nome": "O Nome do Vento",
+    "Autor": "Patrick Rothfuss",
+    "Genero": "Fantasia",
+    "Preco": "R$ 30,00",
+    "Capa": "https://m.media-amazon.com/images/I/91iE-Pu3v+L.jpg",
+    "Vendas": "300",
+    "Data":"05/09/2023"
+  }
+]

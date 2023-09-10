@@ -1,4 +1,8 @@
 import './App.css';
+import data from '../Utils/books.json'
+import { useEffect, useState } from 'react';
+import Carrossel from '../Components/Carrossel';
+import CarrosselRecentes from '../Components/CarrosselRecentes';
 
 function App() {
   return (
@@ -18,15 +22,15 @@ function App() {
               </div>
               <div>
                 <ul>
-                  <li className="links">Home</li>
-                  <li className="links">Books</li>
-                  <li className="links">What’s BookShare?</li>
+                  <li className="links"><a href="http://localhost:3000">Home</a></li>
+                  <li className="links"><a href="#screen-two">Books</a></li>
+                  <li className="links"><a href="">What’s BookShare?</a></li>
                 </ul>
               </div>
               <div>
                 <ul>
-                  <li className="links">Register</li>
-                  <li className="links-r">Sing In</li>
+                  <li className="links"><a href="">Register</a></li>
+                  <li className="links-r"><a href="">Sing In</a></li>
                 </ul>
               </div>
             </div>
@@ -39,10 +43,21 @@ function App() {
             </div>
           </header>
       </div>
-      
 
-
-        <main></main>
+      <div className="screen-two" id='screen-two'>
+        <div className="container">
+          <main>
+            <div className="best-sellers">
+              <h1>Best sellers</h1>
+              <Carrossel livros={data} />
+            </div>
+            <div className="recent-announcements">
+              <h1>Recent announcements</h1>
+              <CarrosselRecentes livros={data} />
+            </div>
+          </main>
+        </div>
+      </div>
         <footer></footer>
       </div>
     </>

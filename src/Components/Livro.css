@@ -1,0 +1,46 @@
+.livro img {
+  width: 200px;
+  height: 300px;
+}
+
+.livro {
+  margin: 0 1.25em 0 1.25em;
+}
+
+.livro {
+  width: 200px;
+  height: 400px;
+  
+}
+
+.carrossel {
+  display: flex;
+  margin-top: 3em;
+  transition: 5s;
+}
+
+.livros-container {
+  display: flex;
+  margin: auto;
+}
+
+.sides-buttons {
+  border: none;
+  outline: none;
+  background-color: #f3f3f3;
+  width: 50px;
+  border-radius: 100px;
+}
+
+.sides-buttons:hover {
+  background-color: #ececec;
+  cursor: pointer;
+}
+
+.sides-buttons:active {
+  background-color: #f3f3f3;
+}
+
+.sides-buttons:disabled {
+  display: none;
+}
