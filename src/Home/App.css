@@ -8,7 +8,8 @@
 }
 
 .screen-one {
-  background-image: url(../images/screen-one.png);
+  /* background-image: url(../images/screen-one.png); */
+  background-color: #4C00ED;
   background-repeat: no-repeat;
   background-size: cover;
   max-height: 838px;
@@ -121,6 +122,7 @@ li {
   height: 768px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .title {
@@ -135,6 +137,18 @@ li {
 .text-box {
   width: 475px;
   color: #fff;
+  /* background-color: green; */
+}
+
+.image-box {
+  /* background-color: red; */
+}
+
+.image-box img {
+  width: 700px;
+  height: 420px;
+  margin-bottom: 6em;
+  filter:contrast(1.3);
 }
 
 /* --------------------------------------------------------------------- */
@@ -147,4 +161,126 @@ li {
 
 .recent-announcements {
   margin-top: 6em;
+}
+
+/* ------------------------- Livro 3d ------------------------- */
+.book-container { 
+  width: 375px; 
+  margin: 40px auto; 
+  display: block;
+  -webkit-perspective: 1200px;
+  -moz-perspective: 1200px;
+  perspective: 1200px;
+}
+.book { 
+  z-index: 5; 
+  -webkit-transition: 0.75s;
+  -moz-transition: 0.75s;
+  transition: 0.75s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transform-origin: 125px 0;
+  -moz-transform-origin: 125px 0;
+  transform-origin: 125px 0;
+}
+.book:after { 
+  content: ""; 
+  position: absolute; 
+  top: 0; 
+  bottom: 0; 
+  left: 3px; 
+  width: 7px; 
+  z-index: 20;
+  -webkit-transform: translateZ(1px);
+  /* Fix for flickering in Chrome  */
+}
+.book:hover {
+    -webkit-transform: translateX(-10px) translateZ(35px) translateX(35px) rotateY(45deg);
+    -moz-transform: translateX(-10px) translateZ(35px) translateX(35px) rotateY(45deg);
+    transform: translateX(-10px) translateZ(35px) translateX(35px) rotateY(45deg);
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    .book-spine {
+      box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    }
+}
+.book-cover { 
+  position: relative; 
+  z-index: 10; 
+}
+
+.book-cover img { 
+  vertical-align: bottom; 
+  max-width: 100%; 
+  height: auto; 
+}
+.book-spine { 
+  position: absolute; 
+  color: #fff; 
+  position: absolute; 
+  bottom: 0; 
+  top: 0; 
+  width: 50px; 
+  z-index: 5; 
+  overflow: hidden; 
+  background-color: #4C00ED;
+  background-size: auto 100%;
+  -webkit-transform: rotateY(-90deg) translateX(-49px);
+  -moz-transform: rotateY(-90deg) translateX(-49px);
+  transform: rotateY(-90deg) translateX(-49px);
+  -webkit-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+.book-spine h1 { 
+  display: block; 
+  width: 325px; 
+  text-align: left; 
+  color: #fff; 
+  position: absolute; 
+  top: 0; 
+  left: 39px; 
+  text-indent: 43px; 
+  text-transform: uppercase; 
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em; 
+  opacity: 0.75; 
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -webkit-transform: rotateZ(90deg);
+  -moz-transform: rotateZ(90deg);
+  transform: rotateZ(90deg);
+  -webkit-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+.book-spine:before { 
+  display: block; 
+  content: ""; 
+  width: 100%; 
+  height: 100%; 
+  background: rgba(0, 0, 0, 0.3); 
+}
+
+/* --------------------------------------------------------------------- */
+
+
+
+
+.image-box {
+  display: inline-block; 
+  animation: swing 3s ease-in-out infinite; 
+  transform-origin: start bottom; 
+}
+
+@keyframes swing {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(2deg); 
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }

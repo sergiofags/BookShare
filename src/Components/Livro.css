@@ -42,5 +42,6 @@
 }
 
 .sides-buttons:disabled {
-  display: none;
+  opacity: 0;
+  cursor: default;
 }
