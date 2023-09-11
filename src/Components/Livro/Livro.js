@@ -1,5 +1,6 @@
 import React from "react";
 import './Livro.css';
+import AvaliacaoEstrelas from '../AvaliacaoEstrelas/AvaliacaoEstrelas';
 
 function Livro({ livro }) {
   return (
@@ -13,11 +14,13 @@ function Livro({ livro }) {
       </div>
     </div>
       <br />
-      <h3>{livro.Nome}</h3>
-      <p>Autor: {livro.Autor}</p>
-      <p>Gênero: {livro.Genero}</p>
-      <p>Preço: {livro.Preco}</p>
-      <p>Vendas: {livro.Vendas}</p>
+      <h3 className='book-name'>{livro.Nome}</h3>
+      <p className='preco'>{livro.Preco}</p>
+      <div className='avaliacao'>
+        <AvaliacaoEstrelas avaliacao={livro.Avaliacao} /> 
+        <p>{livro.Avaliacao}</p>
+      </div>
+      
     </div>
 
     

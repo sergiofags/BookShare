@@ -7,7 +7,8 @@
     "Preco":"R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07PPB9QW1/55cf9114/cover.jpeg",
     "Vendas":"529",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.5
   },
 
   {
@@ -18,7 +19,8 @@
     "Preco":"R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QYPLKV1/f35079bd/cover.jpeg",
     "Vendas":"229",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.8
   },
 
   {
@@ -29,7 +31,8 @@
     "Preco":"R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QXSYDSB/e27c5309/cover.jpeg",
     "Vendas":"769",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.1
   },
 
   {
@@ -40,7 +43,8 @@
     "Preco":"R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B081284MLJ/cbb6ee57/cover.jpeg",
     "Vendas":"123",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 3.8
   },
 
   {
@@ -51,7 +55,8 @@
     "Preco":"R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B084SS25D3/e4b036d0/cover.jpeg",
     "Vendas":"769",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.5
   },
 
   {
@@ -62,7 +67,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96G4/76c6ddc3/cover.jpeg",
     "Vendas":"432",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 5.0
   },
 
   {
@@ -73,7 +79,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://www.cache2net3.com//Repositorio/5286/Produtos/8870cec5-4.jpg?=1387527-1",
     "Vendas":"463",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 2.5
   },
 
   {
@@ -84,7 +91,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96HI/e428a52b/cover.jpeg",
     "Vendas":"184",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 3.7
   },
 
   {
@@ -95,7 +103,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96FA/c3b1f08c/cover.jpeg",
     "Vendas":"946",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 2.5
   },
 
   {
@@ -106,7 +115,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96IC/c95eb7fd/cover.jpeg",
     "Vendas":"444",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.7
   },
 
   {
@@ -117,7 +127,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96LY/ef6dd8fd/cover.jpeg",
     "Vendas":"152",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.8
   },
 
   {
@@ -128,7 +139,8 @@
     "Preco":"R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B01LQM96GE/e85ee591/cover.jpeg",
     "Vendas":"362",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 1.5
   },
   {
     "Id": "12",
@@ -138,7 +150,8 @@
     "Preco": "R$ 25,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B087N72SR7/a1522dcc/cover.jpeg",
     "Vendas": "150",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 0.5
   },
   {
     "Id": "13",
@@ -148,7 +161,8 @@
     "Preco": "R$ 20,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B09474XK6S/4d7d81bb/cover.jpeg",
     "Vendas": "230",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 0.0
   },
   {
     "Id": "14",
@@ -158,7 +172,8 @@
     "Preco": "R$ 22,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B08QRG9G23/d8042a26/cover.jpeg",
     "Vendas": "180",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 1.8
   },
   {
     "Id": "15",
@@ -168,7 +183,8 @@
     "Preco": "R$ 28,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B008TGMR4E/f3f7c9c6/cover.jpeg",
     "Vendas": "270",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 3.4
   },
   {
     "Id": "16",
@@ -178,7 +194,8 @@
     "Preco": "R$ 30,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B07QF3CSRW/c2b55166/cover.jpeg",
     "Vendas": "210",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 2.9
   },
   {
     "Id": "17",
@@ -188,7 +205,8 @@
     "Preco": "R$ 22,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B009WWDBX0/ffa685d5/cover.jpeg",
     "Vendas": "195",
-    "Data":"02/09/2023"
+    "Data":"02/09/2023",
+    "Avaliacao": 4.1
   },
   {
     "Id": "18",
@@ -198,7 +216,8 @@
     "Preco": "R$ 18,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B0BZFKQMFM/4c7af3cc/cover.jpeg",
     "Vendas": "320",
-    "Data":"02/09/2023"
+    "Data":"02/09/2023",
+    "Avaliacao": 3.9
   },
   {
     "Id": "19",
@@ -208,7 +227,8 @@
     "Preco": "R$ 26,00",
     "Capa": "https://d2i0w0hu6hvxgc.cloudfront.net/B0BZSTHLMV/d5dbc22d/cover.jpeg",
     "Vendas": "150",
-    "Data":"01/09/2023"
+    "Data":"01/09/2023",
+    "Avaliacao": 2.1
   },
   {
     "Id": "20",
@@ -218,7 +238,8 @@
     "Preco": "R$ 23,00",
     "Capa": "https://www.lpm.com.br/livros/imagens/ilha_do_tesouro_9788525428714_hd.jpg",
     "Vendas": "190",
-    "Data":"10/09/2023"
+    "Data":"10/09/2023",
+    "Avaliacao": 4.7
   },
   {
     "Id": "21",
@@ -228,7 +249,8 @@
     "Preco": "R$ 24,00",
     "Capa": "https://cdn.kobo.com/book-images/c5a9e519-a7d3-4727-ad5d-2110aa6467df/1200/1200/False/a-odisseia-edicao-ilustrada.jpg",
     "Vendas": "240",
-    "Data":"18/08/2023"
+    "Data":"18/08/2023",
+    "Avaliacao": 1.6
   },
   {
     "Id": "22",
@@ -238,7 +260,8 @@
     "Preco": "R$ 21,00",
     "Capa": "https://upload.wikimedia.org/wikipedia/commons/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg",
     "Vendas": "280",
-    "Data":"10/07/2023"
+    "Data":"10/07/2023",
+    "Avaliacao": 5.0
   },
   {
     "Id": "23",
@@ -248,7 +271,8 @@
     "Preco": "R$ 29,00",
     "Capa": "https://m.media-amazon.com/images/I/81MZ8OjmQrL._AC_UF1000,1000_QL80_.jpg",
     "Vendas": "310",
-    "Data":"13/07/2023"
+    "Data":"13/07/2023",
+    "Avaliacao": 3.6
   },
   {
     "Id": "24",
@@ -258,7 +282,8 @@
     "Preco": "R$ 27,00",
     "Capa": "https://m.media-amazon.com/images/I/71OHAmfPPZL.jpg",
     "Vendas": "200",
-    "Data":"07/09/2023"
+    "Data":"07/09/2023",
+    "Avaliacao": 1.9
   },
   {
     "Id": "25",
@@ -268,7 +293,8 @@
     "Preco": "R$ 25,00",
     "Capa": "https://m.media-amazon.com/images/I/81HLIHXj06L.jpg",
     "Vendas": "170",
-    "Data":"25/08/2023"
+    "Data":"25/08/2023",
+    "Avaliacao": 0.9
   },
   {
     "Id": "26",
@@ -278,7 +304,8 @@
     "Preco": "R$ 28,00",
     "Capa": "https://m.media-amazon.com/images/I/91q7tJhB47L.jpg",
     "Vendas": "220",
-    "Data":"22/08/2023"
+    "Data":"22/08/2023",
+    "Avaliacao": 2.5
   },
   {
     "Id": "27",
@@ -288,7 +315,8 @@
     "Preco": "R$ 23,00",
     "Capa": "https://m.media-amazon.com/images/I/81slUinjTlS.jpg",
     "Vendas": "310",
-    "Data":"03/09/2023"
+    "Data":"03/09/2023",
+    "Avaliacao": 4.5
   },
   {
     "Id": "28",
@@ -298,7 +326,8 @@
     "Preco": "R$ 26,00",
     "Capa": "https://m.media-amazon.com/images/I/61L+4OBhm-L.jpg",
     "Vendas": "250",
-    "Data":"06/09/2023"
+    "Data":"06/09/2023",
+    "Avaliacao": 4.5
   },
   {
     "Id": "29",
@@ -308,6 +337,7 @@
     "Preco": "R$ 30,00",
     "Capa": "https://m.media-amazon.com/images/I/91iE-Pu3v+L.jpg",
     "Vendas": "300",
-    "Data":"05/09/2023"
+    "Data":"05/09/2023",
+    "Avaliacao": 3.5
   }
 ]

@@ -45,3 +45,18 @@
   opacity: 0;
   cursor: default;
 }
+
+.avaliacao {
+  margin-top: 0.25em;
+  display: flex;
+}
+
+.avaliacao p {
+  margin-left: 1em;
+}
+
+.preco {
+  margin-top: 1em;
+  color: #4C00ED;
+  font-weight: 500;
+}

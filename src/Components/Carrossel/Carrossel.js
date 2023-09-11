@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Livro from "./Livro";
+import Livro from "../Livro/Livro";
 
 function Carrossel({ livros }) {
   const [startIndex, setStartIndex] = useState(0);
